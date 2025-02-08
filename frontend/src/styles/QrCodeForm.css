@@ -1,0 +1,50 @@
+.qr-form-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .qr-form-container h2 {
+    font-size: 22px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .input-container {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    max-width: 350px;
+  }
+  
+  .qr-input {
+    width: 100%;
+    padding: 12px 15px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    outline: none;
+    transition: border-color 0.3s ease;
+  }
+  
+  .qr-input:focus {
+    border-color: #007bff;
+  }
+  
+  .clear-btn {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: transparent;
+    border: none;
+    font-size: 18px;
+    color: #999;
+    cursor: pointer;
+    transition: color 0.2s ease-in-out;
+  }
+  
+  .clear-btn:hover {
+    color: #ff0000;
+  }
+  
