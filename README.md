@@ -24,7 +24,7 @@ O **Gerador de QR Code** é um projeto web que permite aos usuários gerar códi
 - **MVC (Model-View-Controller)**: Estrutura que organiza a aplicação em camadas distintas, facilitando a reutilização de código e melhorando a manutenção e escalabilidade do sistema.
 
 
-
+### **Vídeo do projeto**
 
 https://github.com/user-attachments/assets/c661ecd1-2f5e-45e4-b2ee-56d67117aaa1
 
