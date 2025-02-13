@@ -8,7 +8,7 @@ O **Gerador de QR Code** é um projeto web que permite aos usuários gerar códi
 
 - **React.js** – Construção da interface do usuário.
 - **React-Bootstrap** – Componentes estilizados baseados no Bootstrap.
-- **CSS (Custom Styles)** – Estilos personalizados para a aplicação.
+- **CSS** – Estilos personalizados para a aplicação.
 - **QRCode.react** – Biblioteca para geração de QR Codes no frontend.
 
 ### **Backend**
